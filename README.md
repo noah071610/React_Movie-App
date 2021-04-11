@@ -6,4 +6,6 @@ Another section of react is made on my own (client part)
 
 Thank you to watch it and have a nice day all.
 
-- from Noah -
+- As you know, It's a clone coding from John Ahn. Thank you for your nice lecture.
+
+- from Noah
