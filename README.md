@@ -11,6 +11,6 @@
 
 👉 [프로젝트 My-Seoul-Guide 바로가기](https://github.com/noah071610/My-Seoul-Guide)<br/>
 👉 [프로젝트 Noah-World Next.js 버전 바로가기](https://github.com/noah071610/Next_Noahworld)<br/>
-👉 [프로젝트 Noah-World React 버전 바로가기](https://github.com/noah071610/Next_Noahworld)
+👉 [프로젝트 Noah-World React 버전 바로가기](https://github.com/noah071610/React_Noahworld)
 
 <br/><br/><br/><br/>
